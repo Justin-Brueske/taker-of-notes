@@ -10,7 +10,7 @@ const app = express();
 // middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
+//routes
 app.use(express.static("public"));
 app.use("/api", apiroutes);
 app.use("/", htmlroutes);
