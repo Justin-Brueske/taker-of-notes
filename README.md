@@ -12,7 +12,7 @@ This project uses Express running on Heroku to create a note taking app.
 # Links
 [Code Repository](https://github.com/Justin-Brueske/taker-of-notes)
 
-[Depoloyed site](https://drive.google.com/file/d/1LRN_2xHkalEviKLhM5yEtwSlnEPY5Tht/view)
+[Depoloyed site](https://taker-of-notes.herokuapp.com/)
 
 # Usage
 Use to take notes
